@@ -1,6 +1,6 @@
-import os
+#import os
+#os.chdir("/Users/SebastianHaugeto/Google Drive/00_Indøk/Fag/03_ITGK/Øvinger/Øving 10/05_SJAKK")
 import copy
-os.chdir("/Users/SebastianHaugeto/Google Drive/00_Indøk/Fag/03_ITGK/Øvinger/Øving 10/05_SJAKK")
 from sjakk_classes import *
 
 class Chess:
